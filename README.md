@@ -41,10 +41,3 @@
 
 ###
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/RiccardoSignorini/RiccardoSignorini/output/snake.svg" alt="Snake animation" />
-
-###
