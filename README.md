@@ -13,7 +13,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="65" alt="javascript logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="65" alt="html5 logo"  />
@@ -29,7 +29,7 @@
 
 ###
 
-<h3 align="left">My profile:</h3>
+<h2 align="left">My profile:</h2>
 
 ###
 
